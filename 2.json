@@ -1,7 +1,7 @@
 {
   "name": "#2",
   "description": "10,000 test",
-  "image": "https://github.com/3dd3v/pepe/blob/main/2.png",
+  "image": "https://raw.githubusercontent.com/3dd3v/pepe/refs/heads/main/2.png",
   "imageHash": "5c492e6a10c2eea178441ca78cfb43e932629f03ad2c46b2e759afa48a1b7e60",
   "edition": 2,
   "date": 1684759691690,
