@@ -1,0 +1,31 @@
+{
+  "name": "#4",
+  "description": "10,000 asd",
+  "image": "https://raw.githubusercontent.com/3dd3v/pepe/refs/heads/main/4.png",
+  "imageHash": "4c9b1a30d00fb3be238d52ec73da36feb3cda7a7681bfca43162fd77f766acb1",
+  "edition": 4,
+  "date": 1684759584835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes 10"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair 15"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

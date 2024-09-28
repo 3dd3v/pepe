@@ -1,0 +1,31 @@
+{
+  "name": "#5",
+  "description": "10,000 dfggdfgfd.",
+  "image": "https://raw.githubusercontent.com/3dd3v/pepe/refs/heads/main/5.png",
+  "imageHash": "cc8194dcf1be141447371d36a9156517af5c17b2867a0d8683dd81997e38c033",
+  "edition": 5,
+  "date": 1684759437036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "dark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth 6"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes 10"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair 16"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
